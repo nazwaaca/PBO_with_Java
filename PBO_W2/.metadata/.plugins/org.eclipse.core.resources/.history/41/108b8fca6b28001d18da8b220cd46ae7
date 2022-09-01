@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class Operator {
+	public static void main(String []argh){
+        Scanner sc = new Scanner(System.in);
+		String A = sc.next();
+        System.out.println(A);
+	}
+}

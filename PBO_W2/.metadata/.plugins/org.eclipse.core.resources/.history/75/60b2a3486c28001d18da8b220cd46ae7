@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class Operator2 {
+	public static void main(String []argh){
+		double x = 92.98;
+		int nx = (int) Math.round(x);
+        System.out.println("Hasil " + nx);
+	}
+}

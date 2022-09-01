@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+E:\Kuli ah\Semester 3\PBO\PBO_W2\.metadata\.plugins\org.eclipse.jdt.core
+2006010472.index
+2666721117.index
+133938919.index
+1865797976.index
+3925204939.index
+3011209426.index
+9861886.index
